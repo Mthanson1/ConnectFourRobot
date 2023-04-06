@@ -1,6 +1,8 @@
 # ConnectFourRobot
 This repo contains all version controls for our group's LEGO EV3 controlled connect four robot.
 
+The final code is in FinalUI
+
 All code in this repo is written in RobotC with added functions for interfacing motors and sensors with the EV3 Brick.
 
 The Main algorithm works by simulating moves within the board stored in memory and determining if the simulated move generates a win for either player.
